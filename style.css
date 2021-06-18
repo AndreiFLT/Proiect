@@ -47,6 +47,14 @@
       border:2px;
       border-radius:25px;
   }
+
+  .button2{
+    background: #ddd;
+    width:100px;
+    height:35px;
+    border:2px;
+    border-radius:25px;
+}
   
   .row {  
     display: -ms-flexbox;
